@@ -80,7 +80,6 @@ pandas
 matplotlib
 seaborn
 
-(Dosya adını sen belirleyebilirsin.)
 
 📝 Amaç
 
